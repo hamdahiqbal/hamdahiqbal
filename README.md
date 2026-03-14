@@ -80,7 +80,6 @@ Engineered a complete stock forecasting pipeline using XGBoost and SMOTE, taking
 - **[forensic-image-analyzer](https://github.com/hamdahiqbal/forensic-image-analyzer)**
 - **[kivy-flask-form-manager](https://github.com/hamdahiqbal/kivy-flask-form-manager)**
 - **[rtb-caller-bid-api](https://github.com/hamdahiqbal/rtb-caller-bid-api)**
-- **[Resume & Portfolio Directory](https://github.com/hamdahiqbal/hamdahiqbal-portfolio)**
 
 ### Academic Repositories
 - **[big-data-analytics](https://github.com/hamdahiqbal/big-data-analytics)**
