@@ -182,6 +182,7 @@ A pytsk3-based disk image forensic analysis tool for metadata extraction, filesy
 | [tools-techniques-data-science](https://github.com/hamdahiqbal/tools-techniques-data-science) | Web scraping, KNIME retail pipeline & Streamlit personal portfolio |
 | [kivy-flask-form-manager](https://github.com/hamdahiqbal/kivy-flask-form-manager) | Cross-platform Kivy desktop GUI + Flask REST backend with SQLite & admin dashboard |
 | [rtb-caller-bid-api](https://github.com/hamdahiqbal/rtb-caller-bid-api) | Flask web app integrating Retreaver RTB API for real-time call bid queries |
+| [ADF-Capstone-Project](https://github.com/hamdahiqbal/ADF-Capstone-Project) | End-to-end Enterprise Data Lakehouse on Azure using ADF, Spark transformations, and DevOps CI/CD automation |
 
 ---
 
