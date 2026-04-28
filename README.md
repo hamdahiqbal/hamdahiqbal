@@ -1,14 +1,13 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1B4F72,100:2E86C1&height=220&section=header&text=Hamdah%20Iqbal&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Python%20Developer&descAlignY=60&descSize=20&animation=fadeIn&stroke=2E86C1&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1B4F72,100:2E86C1&height=200&section=header&text=Hamdah%20Iqbal&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20ML%20Engineer%20%7C%20Data%20Engineer&descAlignY=60&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+ML+Pipelines+from+Scratch;LLMs+%7C+RAG+%7C+NLP+%7C+Deep+Learning;Turning+Raw+Data+into+Business+Intelligence;Available+for+DS+%26+ML+Opportunities+in+Lahore)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=LLMs+%7C+RAG+%7C+NLP+%7C+Deep+Learning;Ensemble+ML+%7C+XGBoost+%7C+Financial+Backtesting;Azure+Databricks+%7C+PySpark+%7C+Delta+Lake;Open+to+DS+%7C+ML+%7C+Analytics+Roles)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamdah-iqbal-84326a311/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamdahiqbal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://www.linkedin.com/in/hamdah-iqbal-84326a311/details/projects/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamdah.iqbal.hi@gmail.com)
 [![Certifications](https://img.shields.io/badge/Certifications-0A66C2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.linkedin.com/in/hamdah-iqbal-84326a311/details/certifications/)
 
@@ -19,23 +18,19 @@
 
 </div>
 
-<br/>
-
----
-
 ## About Me
 
 ```python
 class HamdahIqbal:
     def __init__(self):
         self.name        = "Hamdah Iqbal"
-        self.role        = ["Data Scientist", "ML Engineer", "Python Developer"]
+        self.role        = ["Data Scientist", "AI Engineer", "ML Engineer", "Data Engineer"]
         self.location    = "Lahore, Pakistan"
         self.university  = "BS Data Science @ UCP — 3.5+ CGPA, Merit Scholar"
         self.internship  = "Data Scientist Intern @ Digicon Valley (Aug 2024 – Feb 2025)"
-        self.stack       = ["ML/DL", "NLP", "LLMs", "RAG", "Big Data", "MLOps"]
+        self.stack       = ["ML/DL", "NLP", "LLMs & RAG", "Big Data", "MLOps"]
         self.tutoring    = "Python & C++ — private tutor since 2018"
-        self.available   = True  # open to DS · ML · Analytics roles
+        self.available   = True  # open to DS · AI · ML · DE roles
 
     def summary(self):
         return (
@@ -48,8 +43,6 @@ class HamdahIqbal:
 me = HamdahIqbal()
 print(me.summary())
 ```
-
----
 
 ## Tech Stack
 
@@ -65,8 +58,8 @@ print(me.summary())
 **Machine Learning & Data Science**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -92,7 +85,7 @@ print(me.summary())
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 
 **Visualisation & BI**
 
@@ -112,102 +105,100 @@ print(me.summary())
 
 </div>
 
----
-
 ## Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### [Stock Trading ML Pipeline](https://github.com/hamdahiqbal/stock-trading-ml-powerbi)
+**[Information Retrieval & RAG System](https://github.com/hamdahiqbal/information-retrieval)**
 
-End-to-end stock forecasting system that predicts **Buy / Hold / Sell** signals from historical market data using XGBoost with SMOTE for class imbalance — augmented with comprehensive Power BI backtesting dashboards.
+Production-grade RAG pipeline with ChromaDB, HuggingFace Sentence Transformers, cross-encoder reranking for retrieval precision, and LLM generation. Also covers CISI benchmark evaluation, TF-IDF Vector Space Model, and Boolean retrieval with precision/recall metrics.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?style=flat-square)
-![SMOTE](https://img.shields.io/badge/-SMOTE-E67E22?style=flat-square)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![yfinance](https://img.shields.io/badge/-yfinance-2E86C1?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-7B4FFF?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-C0392B?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### [Information Retrieval & RAG System](https://github.com/hamdahiqbal/information-retrieval)
+**[Stock Trading ML Pipeline](https://github.com/hamdahiqbal/stock-trading-ml-powerbi)**
 
-Full IR pipeline implementing Boolean retrieval, Vector Space Model, and CISI benchmark evaluation — extended with a production-grade **Retrieval-Augmented Generation** system using LangChain and vector databases.
+End-to-end ML system predicting Buy / Hold / Sell signals on META, USO, and URTH using 10+ technical indicators, five classifiers plus ensemble VotingClassifier, SMOTE class balancing, custom Sharpe/Drawdown backtesting, and Power BI executive dashboard.
 
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-8A2BE2?style=flat-square)
+![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?style=flat-square)
+![SMOTE](https://img.shields.io/badge/-SMOTE-8E44AD?style=flat-square)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square)
+![yfinance](https://img.shields.io/badge/-yfinance-1C4E80?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [BMI Diet Recommender](https://github.com/hamdahiqbal/bmi-diet-recommendation)
+**[Databricks Medallion Architecture E2E](https://github.com/hamdahiqbal/databricks-medallion-e2e)**
 
-Interactive Streamlit application using K-Means clustering to deliver personalised dietary recommendations based on user BMI and health profiling.
+Enterprise-grade Azure Databricks data lakehouse with Unity Catalog for data governance and AutoLoader for incremental ingestion across Bronze, Silver, and Gold layers — production engineering standards throughout.
 
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![KMeans](https://img.shields.io/badge/-K--Means-2E86C1?style=flat-square)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/-Unity_Catalog-FF3621?style=flat-square)
+![Delta Lake](https://img.shields.io/badge/-Delta_Lake-003366?style=flat-square)
+![AutoLoader](https://img.shields.io/badge/-AutoLoader-003366?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### [Forensic Image Analyzer](https://github.com/hamdahiqbal/forensic-image-analyzer)
+**[Distributed Big Data Analytics](https://github.com/hamdahiqbal/big-data-analytics)**
 
-A pytsk3-based disk image forensic analysis tool for metadata extraction, filesystem timeline reconstruction, and digital artefact recovery from raw disk images.
+Four distributed computing projects — PySpark Medallion streaming pipeline, DS3/DSSS frequent itemset mining on HIGGS data, Hadoop MapReduce movie analytics, and a published research algorithm reimplemented from scratch in Scala and PySpark.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![pytsk3](https://img.shields.io/badge/-pytsk3-555555?style=flat-square)
-![Forensics](https://img.shields.io/badge/-Digital%20Forensics-922B21?style=flat-square)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square)
+![Hadoop](https://img.shields.io/badge/-Hadoop_MapReduce-66CCFF?style=flat-square&logoColor=black)
+![Streaming](https://img.shields.io/badge/-Streaming_Pipeline-1ABC9C?style=flat-square)
 
 </td>
 </tr>
 </table>
 
----
-
 ## All Repositories
 
 | Repository | Description |
-|:---|:---|
-| [exploratory-data-analysis](https://github.com/hamdahiqbal/exploratory-data-analysis) | Interactive EDA with Python, Power BI & Tableau on CRM sales and pharmaceutical datasets |
-| [big-data-analytics](https://github.com/hamdahiqbal/big-data-analytics) | PySpark streaming pipelines, Hadoop MapReduce & distributed frequent itemset mining |
-| [fundamentals-of-data-science](https://github.com/hamdahiqbal/fundamentals-of-data-science) | Data wrangling, visualisation & Random Forest CLI tool |
-| [tools-techniques-data-science](https://github.com/hamdahiqbal/tools-techniques-data-science) | Web scraping, KNIME retail pipeline & Streamlit personal portfolio |
-| [kivy-flask-form-manager](https://github.com/hamdahiqbal/kivy-flask-form-manager) | Cross-platform Kivy desktop GUI + Flask REST backend with SQLite & admin dashboard |
-| [rtb-caller-bid-api](https://github.com/hamdahiqbal/rtb-caller-bid-api) | Flask web app integrating Retreaver RTB API for real-time call bid queries |
-| [adf-capstone-project](https://github.com/hamdahiqbal/ADF-Capstone-Project) | End-to-end Enterprise Data Lakehouse on Azure using ADF, Spark transformations, and DevOps CI/CD automation |
-
----
+|---|---|
+| [information-retrieval](https://github.com/hamdahiqbal/information-retrieval) | Full IR pipeline with Boolean retrieval, TF-IDF VSM, CISI benchmarks, and production RAG system |
+| [stock-trading-ml-powerbi](https://github.com/hamdahiqbal/stock-trading-ml-powerbi) | ML trading signal pipeline with ensemble models, SMOTE, backtesting, and Power BI dashboards |
+| [databricks-medallion-e2e](https://github.com/hamdahiqbal/databricks-medallion-e2e) | Enterprise-grade Azure Databricks Medallion Architecture with Unity Catalog and AutoLoader |
+| [adf-capstone-project](https://github.com/hamdahiqbal/adf-capstone-project) | End-to-end Enterprise Data Lakehouse on Azure using ADF, Spark transformations, and Delta Lake |
+| [big-data-analytics](https://github.com/hamdahiqbal/big-data-analytics) | PySpark streaming pipelines, Hadoop MapReduce, and distributed frequent itemset mining |
+| [rtb-caller-bid-api](https://github.com/hamdahiqbal/rtb-caller-bid-api) | Flask web app integrating Retreaver RTB API for real-time call bid queries (Internship Project) |
+| [bmi-diet-recommendation](https://github.com/hamdahiqbal/bmi-diet-recommendation) | K-Means clustering diet recommender with Tkinter desktop application |
+| [exploratory-data-analysis](https://github.com/hamdahiqbal/exploratory-data-analysis) | Interactive EDA with Python, Power BI, and Tableau on CRM sales and pharmaceutical datasets |
+| [fundamentals-of-data-science](https://github.com/hamdahiqbal/fundamentals-of-data-science) | Data wrangling, visualisation, and Random Forest CLI tool |
+| [forensic-image-analyzer](https://github.com/hamdahiqbal/forensic-image-analyzer) | CLI disk image forensic tool for partition analysis, hashing, and deleted file recovery |
+| [kivy-flask-form-manager](https://github.com/hamdahiqbal/kivy-flask-form-manager) | Cross-platform Kivy desktop GUI with Flask REST backend and SQLite admin dashboard |
+| [tools-techniques-data-science](https://github.com/hamdahiqbal/tools-techniques-data-science) | Web scraping, KNIME retail pipeline, and Streamlit personal portfolio |
 
 ## Experience
 
 ```
 Data Scientist Intern          Digicon Valley, Lahore          Aug 2024 – Feb 2025
-─────────────────────────────────────────────────────────────────────────────────
-  > Built and optimised end-to-end ML pipelines for business analytics
-  > Automated data preprocessing workflows using Python
-  > Deployed predictive models and interactive BI dashboards for stakeholders
-  > Applied XGBoost, LightGBM, scikit-learn; tracked experiments with MLflow
+
+> Built and optimised end-to-end ML pipelines for business analytics
+> Automated data preprocessing workflows using Python
+> Deployed predictive models and interactive BI dashboards for stakeholders
+> Applied XGBoost, LightGBM, scikit-learn; tracked experiments with MLflow
 
 Python Development Intern      Digicon Valley, Lahore          May 2024
-─────────────────────────────────────────────────────────────────────────────────
-  > Contributed to production-grade Python projects in an Agile environment
-  > Strengthened applied programming, OOP design patterns, and debugging
+
+> Contributed to production-grade Python projects in an Agile environment
+> Strengthened applied programming, OOP design patterns, and debugging
 
 Python & C++ Tutor             Freelance / Private             2018 – Present
-─────────────────────────────────────────────────────────────────────────────────
-  > Mentored 10–15 students in Python, C++, OOP, and data structures
-  > Designed project-based lesson plans tailored for all skill levels
-```
 
----
+> Mentored 10–15 students in Python, C++, OOP, and data structures
+> Designed project-based lesson plans tailored for all skill levels
+```
 
 ## Education
 
@@ -225,8 +216,6 @@ PIPS School, Sheikhupura                      2018 – 2020
   Grade: A+  |  Full Academic Scholarship
 ```
 
----
-
 ## Certifications
 
 ```
@@ -235,8 +224,6 @@ PIPS School, Sheikhupura                      2018 – 2020
 [ Cisco Networking Academy ]  Introduction to Data Analytics
 [ Great Learning Academy   ]  Data Visualization in Tableau
 ```
-
----
 
 ## GitHub Stats
 
@@ -249,34 +236,30 @@ PIPS School, Sheikhupura                      2018 – 2020
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hamdahiqbal&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=CDD9E5&dates=CDD9E5&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
-<br/>
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamdahiqbal&bg_color=0D1117&color=58A6FF&line=2E86C1&point=58A6FF&area=true&area_color=1B4F72&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
 
 ## Professional Strengths
 
 <div align="center">
 
-![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-1B4F72?style=for-the-badge&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-1B4F72?style=for-the-badge&logoColor=white)
-![Mentoring](https://img.shields.io/badge/Mentoring_%26_Teaching-1B4F72?style=for-the-badge&logoColor=white)
-![Collaboration](https://img.shields.io/badge/Cross--functional_Collaboration-1B4F72?style=for-the-badge&logoColor=white)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-1B4F72?style=for-the-badge&logoColor=white)
-![InfoSec](https://img.shields.io/badge/Networks_%26_Security-1B4F72?style=for-the-badge&logoColor=white)
-![Adaptability](https://img.shields.io/badge/Adaptability-1B4F72?style=for-the-badge&logoColor=white)
-![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-1B4F72?style=for-the-badge&logoColor=white)
+![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-1B4F72?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-1B4F72?style=for-the-badge)
+![Mentoring & Teaching](https://img.shields.io/badge/Mentoring_%26_Teaching-1B4F72?style=for-the-badge)
+![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional_Collaboration-1B4F72?style=for-the-badge)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-1B4F72?style=for-the-badge)
+![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-1B4F72?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/Adaptability-1B4F72?style=for-the-badge)
+![Research & Implementation](https://img.shields.io/badge/Research_%26_Implementation-1B4F72?style=for-the-badge)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-**Open to Data Science, ML Engineering & Analytics opportunities — Lahore and beyond.**
+Open to Data Science, ML Engineering, and Analytics opportunities — Lahore and beyond.
 
 <br/>
 
