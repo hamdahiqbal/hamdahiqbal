@@ -203,7 +203,7 @@ Python & C++ Tutor             Freelance / Private             2018 – Present
 ## Education
 
 ```
-University of Central Punjab, Lahore          2022 – 2026 (Expected)
+University of Central Punjab, Lahore          2022 – 2026 
   BS Data Science
   CGPA: 3.5+  |  Merit Scholarship Recipient
 
